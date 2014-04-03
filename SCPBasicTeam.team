@@ -1,0 +1,7 @@
+#Robocode Robot Team
+#Thu Dec 20 19:50:17 CET 2012
+robocode.version=1.7.4.4
+team.version=1.2
+team.description=Basic Team withou Communications
+team.author.name=
+team.members=scpbasicteam.SCPBasicLeader*,scpbasicteam.SCPBasicRobot*,scpbasicteam.SCPBasicRobot*,scpbasicteam.SCPBasicRobot*,scpbasicteam.SCPBasicRobot*
